@@ -1,5 +1,10 @@
 # Predictive_analysis
-
+COMPANY : CODTECH IT SOLUTIONS 
+NAME : JASVANTH VARMA MUPPALA 
+INTERN ID : CT08ORY 
+DOMAIN : DATA ANALYSIS 
+DURATION : 4 WEEKS 
+MENTOR : NEELA SANTOSH
 
 
 ### Project Description: **NYC Taxi Zones Classification**
